@@ -36,6 +36,27 @@ If the airline increases occupancy by just 10%, the projected annual growth is:
 ```text
 ├── Airline_Analysis.ipynb        # Full Jupyter/Colab Analysis
 ├── Airlines_Widescreen.pptx      # Executive Presentation
-├── travel.sqlite                 # Database file (Raw Data)
+├── travel.sqlite                 # Database file (Data link kaggle)
 ├── README.md                     # Project Documentation
 └── images/                       # Visualizations and Charts
+
+
+## 🚀 How to Run
+
+1. **Clone this repository:**
+```
+git clone https://github.com/anisahmed01/airline-revenue-and-occupancy-analysis
+```
+
+2. **Ensure you have sqlite3 and pandas installed.**
+
+3. **Open Airline_Analysis.ipynb in Jupyter Lab or Google Colab.**
+
+4. **If using Colab, upload the travel.sqlite file to the sidebar to establish a connection.**
+
+
+
+### Author: Anis Ahmed
+```
+Website: anisahmed.in
+```
