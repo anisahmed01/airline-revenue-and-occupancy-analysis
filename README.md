@@ -1,7 +1,7 @@
 # ✈️ Airline Revenue & Occupancy Analysis (SQL + Python)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&width=800&lines=✈️+Airline+Revenue+%26+Occupancy+Analysis;SQL+%2B+Python+Data+Project" alt="Project Header" />
+  <img src="images/header.svg" alt="Airline Data Analysis Project" width="100%"/>
 </p>
 
 ## 📌 Business Problem
