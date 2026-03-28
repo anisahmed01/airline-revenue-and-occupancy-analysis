@@ -39,6 +39,7 @@ If the airline increases occupancy by just 10%, the projected annual growth is:
 ├── travel.sqlite                 # Database file (Data link kaggle)
 ├── README.md                     # Project Documentation
 └── images/                       # Visualizations and Charts
+```
 
 
 ## 🚀 How to Run
