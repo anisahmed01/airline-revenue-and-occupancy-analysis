@@ -1,4 +1,4 @@
-# ✈️ Airline Revenue & Occupancy Analysis (SQL + Python)
+# ✈️ Airlines Strategic Revenue & Fleet Efficiency Modeling (SQL + Python)
 
 
 ## 📌 Business Problem
