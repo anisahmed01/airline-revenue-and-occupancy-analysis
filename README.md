@@ -68,8 +68,8 @@ Website: anisahmed.in
 
 ## 📊 Visuals
 
-![Dashboard 1](Dashboard%Images/Screenshot%2026-03-28%185238.png)
-![Dashboard 2](Dashboard%Images/Screenshot%2026-03-28%185330.png)
-![Dashboard 3](Dashboard%Images/Screenshot%2026-03-28%185308.png)
+![Dashboard 1](Dashboard Images/Screenshot%2026-03-28%185238.png)
+![Dashboard 2](Dashboard Images/Screenshot%2026-03-28%185330.png)
+![Dashboard 3](Dashboard Images/Screenshot%2026-03-28%185308.png)
 
 
